@@ -1,0 +1,3 @@
+from news.models import *
+User.objects.create(username = 'Александров Павел')
+User.objects.create(username = 'Иванов Иван')
